@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif
+![git](https://github.com/user-attachments/assets/f871c7c3-345c-4cad-9501-5a44f1f1096b)
 ## Hi👋, I am SojwalBorale
 
 <!--
