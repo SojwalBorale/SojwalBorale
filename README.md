@@ -1,5 +1,5 @@
 ![git](https://github.com/user-attachments/assets/f871c7c3-345c-4cad-9501-5a44f1f1096b)
-## Hi👋, I am SojwalBorale
+                           Hi👋, I am SojwalBorale
 
 <!--
 **SojwalBorale/SojwalBorale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
