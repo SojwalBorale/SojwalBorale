@@ -1,4 +1,5 @@
-## Hi there 👋
+https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif
+## Hi👋, I am SojwalBorale
 
 <!--
 **SojwalBorale/SojwalBorale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/228d692c-f61d-466b-9c31-fd5e732c27df" />
+
 
